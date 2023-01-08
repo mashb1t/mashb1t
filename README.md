@@ -21,7 +21,7 @@
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
 
 - 💼 Senior Software & DevOps Engineer at [oddity code](https://www.odt.net/en/)
-- 📖 Mentor & instructor with IHK instructor certificate
+- 📖 Mentor & certified IHK instructor
 - 🛠️ Cloud infrastructure trailblazer
 - 🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom;"><img src="https://awesome.re/badge.svg" /></a>
 
@@ -63,6 +63,9 @@
     <a style="margin-left: 10px;" target="_blank" href="https://gallery.mash1t.de">
 			<img width="48" src="https://user-images.githubusercontent.com/9307310/211216356-5c9a2b89-06ca-466c-b8a7-ecf27010188c.png">
     </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://paypal.me/mash1t">
+			<img width="48" src="https://camo.githubusercontent.com/9873545039eafb3a7c460a26fff1325319014b4f602faec376d3e6fa1f155561/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70617970616c2e737667">
+    </a> 
   </div>
 </p>
 
