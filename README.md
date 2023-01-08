@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
+</p>
+
 <br>
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=50px height=50px>
