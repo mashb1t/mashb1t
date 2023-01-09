@@ -24,10 +24,12 @@
 
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
 
-- 💼 Senior Software & DevOps Engineer at <a href="https://www.odt.net/en/">oddity code</a>
-- 📖 Mentor & certified IHK instructor
-- 🛠️ Cloud infrastructure trailblazer
-- 🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom;"><img src="https://awesome.re/badge.svg" /></a>
+<ul>
+  <li>💼 Senior Software & DevOps Engineer at <a href="https://www.odt.net/en/">oddity code</a></li>
+  <li>📖 Mentor & certified IHK instructor</li>
+  <li>🛠️ Cloud infrastructure trailblazer</li>
+  <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom;"><img src="https://awesome.re/badge.svg" /></a></li>
+</ul>
 
 <br>
 
@@ -39,15 +41,14 @@
 
 <br>
 
-<h2 align="left">Connect with me / find me on</h3>
-
-<p>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.xing.com/profile/Manuel_Schmid39">
+<h2 align="left">Connect with me / find me on</h2>
+<p style="display: flex;">
+  <a target="_blank" href="https://www.xing.com/profile/Manuel_Schmid39">
     <img width="48" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mashb1t/">
     <img width="48" src="https://camo.githubusercontent.com/559cb0e71b23bcd0b454d3312cb05542efb176a2236a5f6ecc99d478726172da/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f78696e672e737667">
-  </a>    
+  </a>
   <a style="margin-left: 10px;" target="_blank" href="https://github.com/mashb1t">
     <img width="48" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">
   </a>
@@ -71,5 +72,5 @@
   </a>
 </p>
 
-<h2 align="center"></h1>
+<h2 align="center"></h2>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mashb1t.mashb1t.visitor-badge" />
