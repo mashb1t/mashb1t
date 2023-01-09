@@ -28,7 +28,7 @@
   <li>💼 Senior Software & DevOps Engineer at <a href="https://www.odt.net/en/">oddity code</a></li>
   <li>📖 Mentor & certified IHK instructor</li>
   <li>🛠️ Cloud infrastructure trailblazer</li>
-  <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom;"><img src="https://awesome.re/badge.svg" /></a></li>
+  <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom; display: inline-block;"><img src="https://awesome.re/badge.svg" /></a></li>
 </ul>
 
 <br>
