@@ -24,7 +24,7 @@
 
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
 
-- 💼 Senior Software & DevOps Engineer at [oddity code](https://www.odt.net/en/)
+- 💼 Senior Software & DevOps Engineer at <a href="https://www.odt.net/en/">oddity code</a>
 - 📖 Mentor & certified IHK instructor
 - 🛠️ Cloud infrastructure trailblazer
 - 🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom;"><img src="https://awesome.re/badge.svg" /></a>
