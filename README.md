@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, i'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello there, i'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Developer;DevOps%20Engineer;instructor%20for%202%20apprentices;10%2B%20years%20of%20coding%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40%22">
 
