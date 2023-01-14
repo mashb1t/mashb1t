@@ -3,16 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Developer;DevOps%20Engineer;instructor%20for%202%20apprentices;10%2B%20years%20of%20coding%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40%22">
 
 <h2>Statistics</h2>
-<p align="center">
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
+<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashb1t&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="bc-expert" /></a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
-</p><br>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashb1t&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="bc-expert" /></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" /></p>
+<br>
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=50px height=50px>
 
