@@ -1,31 +1,44 @@
 <h1 align="center">Hello there, i'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Developer;DevOps%20Engineer;instructor%20for%202%20apprentices;10%2B%20years%20of%20coding%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40%22">
+
 <h2>Statistics</h2>
 <p align="center">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mashb1t&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="bc-expert" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
-</p><br>
+</p>
+
+<br>
+
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=50px height=50px>
+
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
+
 <ul>
   <li>💼 Senior Software & DevOps Engineer at <a href="https://www.odt.net/en/">oddity code</a></li>
   <li>📖 Mentor & certified IHK instructor</li>
   <li>🛠️ Cloud infrastructure trailblazer</li>
   <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom; display: inline-block;"><img src="https://awesome.re/badge.svg" /></a></li>
-</ul><br>
+</ul>
+
+<br>
+
 <h2 align="left">Skills</h2>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,linux,docker,grafana" />
-<img src="https://skillicons.dev/icons?i=html,php,laravel,graphql,nginx,mysql,redis,css,js" />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,idea" /><br>
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,linux,docker,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=html,php,laravel,graphql,nginx,mysql,redis,css,js" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,idea" /><br><br>
+
 <h2 align="left">Connect with me / find me on</h2>
 <p style="display: flex;">
   <a target="_blank" href="https://www.xing.com/profile/Manuel_Schmid39">
@@ -56,5 +69,6 @@
     <img width="48" src="https://camo.githubusercontent.com/9873545039eafb3a7c460a26fff1325319014b4f602faec376d3e6fa1f155561/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70617970616c2e737667">
   </a>
 </p>
+
 <h2 align="center"></h2>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mashb1t.mashb1t.visitor-badge" />
