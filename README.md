@@ -71,8 +71,3 @@
     <img width="48" src="https://camo.githubusercontent.com/9873545039eafb3a7c460a26fff1325319014b4f602faec376d3e6fa1f155561/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70617970616c2e737667">
   </a>
 </p>
-
-<!--
-<h2 align="center"></h2>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mashb1t.mashb1t.visitor-badge" /
->-->
