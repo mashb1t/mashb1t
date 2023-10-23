@@ -48,7 +48,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/mash1t?si=fed9369f791849f2">
     <img width="48" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://gallery.mash1t.de">
+  <a style="margin-left: 10px;" target="_blank" href="https://gallery.mashb1t.de">
     <img width="48" src="https://user-images.githubusercontent.com/9307310/211216356-5c9a2b89-06ca-466c-b8a7-ecf27010188c.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://paypal.me/mashb1t">
