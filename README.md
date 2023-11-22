@@ -13,7 +13,8 @@
 <ul>
   <li>💼 Senior Software & DevOps Engineer at <a href="https://www.wongdoody.com/">WongDoody</a></li>
   <li>📖 Mentor & certified IHK instructor</li>
-  <li>🛠️ Cloud infrastructure trailblazer</li>
+  <li>🛠️ Cloud infrastructure & AI trailblazer</li>
+  <li>🎨 AI artist - check out my <a htef="https://gallery.mashb1t.de/r/q0-72LItF8vSI6dDLwyC5V7N">gallery</a></li>
   <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom; display: inline-block;"><img src="https://awesome.re/badge.svg" /></a></li>
 </ul>
 
