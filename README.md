@@ -22,9 +22,9 @@
 
 <h2 align="left">Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,linux,docker,grafana" /><br>
-<img src="https://skillicons.dev/icons?i=html,php,laravel,graphql,nginx,mysql,redis,css,js" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,idea" /><br><br>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,ansible,linux,docker,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=html,php,laravel,py,graphql,nginx,mysql,redis,css,js" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,raspberrypi,idea" /><br><br>
 
 <h2 align="left">Connect with me / find me on</h2>
 <p style="display: flex;">
