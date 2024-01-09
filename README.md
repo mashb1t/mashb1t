@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, i'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
+<h1 align="center">Hello there, i'm Manuel!</h1>
 
 <h2>Statistics</h2>
 <p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
