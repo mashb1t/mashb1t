@@ -29,31 +29,28 @@
 <h2 align="left">Connect with me / find me on</h2>
 <p style="display: flex;">
   <a target="_blank" href="https://www.xing.com/profile/Manuel_Schmid39">
-    <img width="48" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">
+    <img width="48" height="48px" src="https://github.com/mashb1t/mashb1t/assets/9307310/a5894575-34db-4e03-9235-5e7233606c4d">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mashb1t/">
-    <img width="48" src="https://camo.githubusercontent.com/559cb0e71b23bcd0b454d3312cb05542efb176a2236a5f6ecc99d478726172da/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f78696e672e737667">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/mashb1t">
-    <img width="48" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">
+    <img width="48" height="48px" src="https://github.com/mashb1t/mashb1t/assets/9307310/9a27dce2-ffe6-47f3-a2f1-6140d55edd13">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mashb1t/">
-    <img width="48" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/79e0a5d1-98f3-4a92-a2da-3c153b3680c4">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mashb1t">
-    <img width="48" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/0a18442c-8df7-49c6-b50b-58fd0c8ede9d">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://soundcloud.com/mashb1t">
-    <img width="48" src="https://camo.githubusercontent.com/ac239c1cbda77e625469bb2f8ec0723c2ab50f5e8e55ec271a58629dedf0cb31/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736f756e64636c6f75642e737667">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/1c1b421c-f385-4f29-a0f3-c3a4596e9dfd">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/mash1t?si=fed9369f791849f2">
-    <img width="48" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/521d409c-2087-47a5-80ca-a4f341e3ba05">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://gallery.mashb1t.de">
-    <img width="48" src="https://user-images.githubusercontent.com/9307310/211216356-5c9a2b89-06ca-466c-b8a7-ecf27010188c.png">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/dd515323-6fa5-4c24-ad74-f175d600b230">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://paypal.me/mashb1t">
-    <img width="48" src="https://camo.githubusercontent.com/9873545039eafb3a7c460a26fff1325319014b4f602faec376d3e6fa1f155561/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70617970616c2e737667">
+    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/5a6900b3-9fe0-402a-80a7-bef8df11598c">
   </a>
 </p>
 
