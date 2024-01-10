@@ -43,7 +43,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://soundcloud.com/mashb1t">
     <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/1c1b421c-f385-4f29-a0f3-c3a4596e9dfd">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/mash1t?si=fed9369f791849f2">
+  <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/mash1t">
     <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/521d409c-2087-47a5-80ca-a4f341e3ba05">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://gallery.mashb1t.de">
