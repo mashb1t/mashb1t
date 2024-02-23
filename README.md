@@ -1,14 +1,11 @@
-<h1 align="center">Hello there, i'm Manuel!</h1>
+<h1 align="center">Hello there, I'm Manuel!</h1>
 
 <h2>Statistics</h2>
 <p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" /></p>
 <br>
-
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=50px height=50px>
-
-<h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
+<h2 align="left" font-weight="bold">About me</h2>
 
 <ul>
   <li>💼 Senior Software & DevOps Engineer at <a href="https://www.wongdoody.com/">WongDoody</a></li>
