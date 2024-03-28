@@ -8,7 +8,7 @@
 <h2 align="left" font-weight="bold">About me</h2>
 
 <ul>
-  <li>💼 Senior Software & DevOps Engineer at <a href="https://www.wongdoody.com/">WongDoody</a></li>
+  <li>💼 Expert AI Engineering at <a href="https://www.wongdoody.com/">WongDoody</a></li>
   <li>📖 Mentor & certified IHK instructor</li>
   <li>🛠️ Cloud infrastructure & AI trailblazer</li>
   <li>🎨 AI artist - check out my <a href="https://gallery.mashb1t.de/r/q0-72LItF8vSI6dDLwyC5V7N">gallery</a></li>
