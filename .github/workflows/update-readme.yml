@@ -1,0 +1,53 @@
+name: Update GitHub Stats in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # workflow to daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Read Current README.md
+        id: read-file
+        run: |
+          # Extract the first occurrence of cache_seconds value or default to 60 if not found
+          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md | head -n 1 || echo 60)
+          
+          # Trim any potential leading or trailing spaces
+          CACHE_SECONDS=$(echo "$CACHE_SECONDS" | xargs)
+          
+          echo "Current cache_seconds: $CACHE_SECONDS"
+          
+          # Ensure CACHE_SECONDS is a valid positive number
+          if ! [[ "$CACHE_SECONDS" =~ ^[0-9]+$ ]]; then
+            echo "Invalid cache_seconds value, resetting to 60."
+            CACHE_SECONDS=60
+          fi
+          
+          # Increases cache_seconds by 1
+          NEW_CACHE_SECONDS=$((CACHE_SECONDS + 1))
+          
+          # Store the new value for later steps
+          echo "NEW_CACHE_SECONDS=$NEW_CACHE_SECONDS" >> $GITHUB_ENV
+
+
+
+      - name: Update README.md
+        run: |
+          # Replace all occurrences of cache_seconds in README.md with the new value
+          sed -i "s/cache_seconds=[0-9]\+/cache_seconds=${NEW_CACHE_SECONDS}/g" README.md
+          echo "Updated README.md with cache_seconds=${NEW_CACHE_SECONDS}"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "username"
+          git config --global user.email "user_email"
+          git add README.md
+          git commit -m "Auto-update cache_seconds to ${NEW_CACHE_SECONDS}" || echo "No changes to commit"
+          git push
