@@ -16,7 +16,6 @@
   <li>📖 Mentor & certified IHK instructor</li>
   <li>🛠️ Cloud infrastructure & AI trailblazer</li>
   <li>🤖 Former maintainer & main contributor of the AI image generation tool <a href="https://github.com/lllyasviel/Fooocus">Fooocus</a> and my <a href="https://github.com/mashb1t/Fooocus">Fooocus fork</a></li>
-  <li>🎨 AI artist - check out my <a href="https://gallery.mashb1t.de/r/q0-72LItF8vSI6dDLwyC5V7N">gallery</a></li>
   <li>🐳 "the docker guy" - feel free to contribute over at <a href="https://github.com/veggiemonk/awesome-docker" style="vertical-align:text-bottom; display: inline-block;"><img src="https://awesome.re/badge.svg" /></a></li>
 </ul>
 
